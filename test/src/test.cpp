@@ -13,7 +13,7 @@ using namespace std;
 int main() {
 	int i ;
 	i = add(3,4);
-	cout << "Nicolas New New" << endl; // prints Nicolas
+	cout << "Nicolas New New trois" << endl; // prints Nicolas
 	cout << i ;
 	return 0;
 }
